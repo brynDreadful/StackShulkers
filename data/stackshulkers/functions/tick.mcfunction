@@ -1,0 +1,17 @@
+execute as @e[type=item,nbt={Item:{count:1,id:"minecraft:shulker_box"}}] run data modify entity @s Item.components.max_stack_size set value 64
+execute as @e[type=item,nbt={Item:{count:1,id:"minecraft:white_shulker_box"}}] run data modify entity @s Item.components.max_stack_size set value 64
+execute as @e[type=item,nbt={Item:{count:1,id:"minecraft:light_gray_shulker_box"}}] run data modify entity @s Item.components.max_stack_size set value 64
+execute as @e[type=item,nbt={Item:{count:1,id:"minecraft:gray_shulker_box"}}] run data modify entity @s Item.components.max_stack_size set value 64
+execute as @e[type=item,nbt={Item:{count:1,id:"minecraft:black_shulker_box"}}] run data modify entity @s Item.components.max_stack_size set value 64
+execute as @e[type=item,nbt={Item:{count:1,id:"minecraft:blue_shulker_box"}}] run data modify entity @s Item.components.max_stack_size set value 64
+execute as @e[type=item,nbt={Item:{count:1,id:"minecraft:light_blue_shulker_box"}}] run data modify entity @s Item.components.max_stack_size set value 64
+execute as @e[type=item,nbt={Item:{count:1,id:"minecraft:cyan_shulker_box"}}] run data modify entity @s Item.components.max_stack_size set value 64
+execute as @e[type=item,nbt={Item:{count:1,id:"minecraft:green_shulker_box"}}] run data modify entity @s Item.components.max_stack_size set value 64
+execute as @e[type=item,nbt={Item:{count:1,id:"minecraft:lime_shulker_box"}}] run data modify entity @s Item.components.max_stack_size set value 64
+execute as @e[type=item,nbt={Item:{count:1,id:"minecraft:yellow_shulker_box"}}] run data modify entity @s Item.components.max_stack_size set value 64
+execute as @e[type=item,nbt={Item:{count:1,id:"minecraft:orange_shulker_box"}}] run data modify entity @s Item.components.max_stack_size set value 64
+execute as @e[type=item,nbt={Item:{count:1,id:"minecraft:red_shulker_box"}}] run data modify entity @s Item.components.max_stack_size set value 64
+execute as @e[type=item,nbt={Item:{count:1,id:"minecraft:magenta_shulker_box"}}] run data modify entity @s Item.components.max_stack_size set value 64
+execute as @e[type=item,nbt={Item:{count:1,id:"minecraft:purple_shulker_box"}}] run data modify entity @s Item.components.max_stack_size set value 64
+execute as @e[type=item,nbt={Item:{count:1,id:"minecraft:pink_shulker_box"}}] run data modify entity @s Item.components.max_stack_size set value 64
+execute as @e[type=item,nbt={Item:{count:1,id:"minecraft:brown_shulker_box"}}] run data modify entity @s Item.components.max_stack_size set value 64
